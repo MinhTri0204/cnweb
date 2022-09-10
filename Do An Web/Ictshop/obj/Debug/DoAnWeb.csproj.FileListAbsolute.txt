@@ -1,0 +1,132 @@
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\DoAnWeb.csproj.GenerateResource.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\New folder\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Ictshop.dll.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Ictshop.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Ictshop.pdb
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\csc.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\csc.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\csc.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\csi.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\csi.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.AppContext.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\vbc.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\vbc.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\vbc.rsp
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Antlr3.Runtime.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\EntityFramework.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Newtonsoft.Json.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\PagedList.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\PagedList.Mvc.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Helpers.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Mvc.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Optimization.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Razor.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\WebGrease.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\EntityFramework.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\PagedList.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\PagedList.Mvc.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Helpers.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Mvc.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Optimization.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.Razor.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Newtonsoft.Json.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Antlr3.Runtime.pdb
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\DoAnWeb.csproj.GenerateResource.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\Ictshop.dll
+D:\MINH TRI\HK5_2021-2022\CÔNG NGHỆ WEB\Do An\Ictshop\obj\Debug\Ictshop.pdb

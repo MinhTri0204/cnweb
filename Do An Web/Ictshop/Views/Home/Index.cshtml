@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "TN SHOP";}
+
+<br />
+<div class="row">
+    <div class="col-md-8">
+       @Html.Action("SlidePartial","Home")
+    </div>
+    <div class="col-md-4">
+        <img src="~/HinhanhSP/qc3.gif" class="img-responsive" alt="" width="1000px" />
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+<div>
+    <img class="img-responsive" src="~/HinhanhSP/ban1.jpg" />
+</div>
+<br />
+<div class="spnoibat">
+    <div class="row">
+
+        <h3> SẢN PHẨM NỔI BẬT</h3>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spnb1.jpg" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spnb2.jpg" class="img-responsive" alt="" />
+        </div>
+        <div class="col-md-4">
+            <img src="~/HinhanhSP/spnb3.jpg" class="img-responsive" alt="" />
+        </div>
+    </div>
+</div>
+
+<div class="dt">
+    @Html.Action("dtiphonePartial", "Sanpham")
+</div>
+<div class="dt">
+    @Html.Action("dtsamsungpartial", "Sanpham")
+</div>
+
+<div class="dt">
+    @Html.Action("dtxiaomipartial", "Sanpham")
+</div>
+
+<div class="row">
+    <h2> TIN TỨC SẢN PHẨM</h2>
+    <div class="col-md-6">
+        Quảng Cáo
+    </div>
+    <div class="col-md-6">
+        Tin Tức
+    </div>
+</div>
+
